@@ -36,3 +36,4 @@ int main()
  
    return 0;  
 }
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0a3eb26906504106b108daeb40ea6d48)](https://www.codacy.com/app/MeghanaChandra/project1?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MeghanaChandra/project1&amp;utm_campaign=Badge_Grade)
